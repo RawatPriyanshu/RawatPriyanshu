@@ -10,11 +10,12 @@
 
 # 📊 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rawatpriyanshu&show_icons=true&theme=transparent&border_color=00FFFF&icon_color=00FFFF&title_color=00FFFF&text_color=ffffff)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rawatpriyanshu&show_icons=true&theme=dark&hide_border=false&border_color=00BFFF&title_color=ffffff&text_color=cccccc&icon_color=00BFFF)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=rawatpriyanshu&theme=transparent&border=00FFFF&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF)
+![GitHub Streak](https://streak-stats.demolab.com?user=rawatpriyanshu&theme=dark&hide_border=false&border=00BFFF&ring=00BFFF&fire=00BFFF&sideLabels=cccccc&dates=999999)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rawatpriyanshu&layout=compact&theme=transparent&border_color=00FFFF&title_color=00FFFF&text_color=ffffff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rawatpriyanshu&layout=compact&theme=dark&hide_border=false&border_color=00BFFF&title_color=ffffff&text_color=cccccc)
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
