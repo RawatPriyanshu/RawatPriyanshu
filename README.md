@@ -10,11 +10,8 @@
 
 # 📊 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rawatpriyanshu&show_icons=true&theme=dark&hide_border=false&border_color=00BFFF&title_color=ffffff&text_color=cccccc&icon_color=00BFFF)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=rawatpriyanshu&theme=dark&hide_border=false&border=00BFFF&ring=00BFFF&fire=00BFFF&sideLabels=cccccc&dates=999999)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rawatpriyanshu&layout=compact&theme=dark&hide_border=false&border_color=00BFFF&title_color=ffffff&text_color=cccccc)
 
 
 
